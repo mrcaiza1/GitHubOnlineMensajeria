@@ -1,0 +1,22 @@
+Historias de usuario
+ mas historias de usuarios
+
+
+
+ Descripción de una funcionalidad que debe incorporar un sistema de software, y cuya implementación aporta valor al cliente.
+
+La estructura de una historia de usuario está formada por:
+
+Nombre breve y descriptivo.
+Descripción de la funcionalidad en forma de diálogo o monólogo del usuario describiendo la funcionalidad que desea realizar.
+Criterio de validación y verificación que determinará para considerar terminado y aceptable por el cliente el desarrollo de la funcionalidad descrita.
+Y adicionalmente por la información que resulte necesaria por el modelo de implementación: Prioridad, Riesgo, Tamaño, etc.
+
+Ejemplos:
+
+
+
+Agregando mas texto
+
+
+mas datpooooos
