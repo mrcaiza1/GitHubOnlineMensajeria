@@ -1,1 +1,4 @@
 Casos de Uso versión 2
+
+
+aumentando la documentación de casos de uso en la version 2
